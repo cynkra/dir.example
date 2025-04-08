@@ -1,0 +1,8 @@
+^dir\.example\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+# dir::add() start
+^greetings$
+^math$
+# dir::add() end
