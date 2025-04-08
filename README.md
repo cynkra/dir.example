@@ -3,7 +3,7 @@
 
 # dir.example
 
-‘dir.example’ shows how the [‘dir’](https::/github.com/cynkra/dir)
+‘dir.example’ shows how the [‘dir’](https://github.com/cynkra/dir)
 package works.
 
 Look at the code and you’ll see we have some code in the R folder but

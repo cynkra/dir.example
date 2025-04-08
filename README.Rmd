@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 
 # dir.example
 
-'dir.example' shows how the ['dir'](https::/github.com/cynkra/dir) package works.
+'dir.example' shows how the ['dir'](https://github.com/cynkra/dir) package works.
 
 Look at the code and you'll see we have some code in the R folder but also in 2
 other folders named "greetings" and "math", were we have another nested folder.
